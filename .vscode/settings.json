@@ -1,0 +1,14 @@
+{
+  "cucumber.features": [
+    "bdd/features/**/*.feature"
+  ],
+  "cucumber.glue": [
+    "bdd/steps/**/*.py"
+  ],
+  "python.testing.pytestEnabled": true,
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestArgs": [
+    "tests"
+  ],
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python"
+}
