@@ -21,7 +21,7 @@ Clone the repository and enter the project directory:
 
 ```bash
 git clone https://github.com/ArtemOganesyan/python-playwright.git
-cd typescript-playwright-bdd
+cd python-playwright
 ```
 
 Create and activate a virtual environment:
