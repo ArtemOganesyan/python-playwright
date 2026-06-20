@@ -20,7 +20,7 @@ Install:
 Clone the repository and enter the project directory:
 
 ```bash
-git clone https://github.com/ArtemOganesyan/typescript-playwright-bdd.git
+git clone https://github.com/ArtemOganesyan/python-playwright.git
 cd typescript-playwright-bdd
 ```
 
